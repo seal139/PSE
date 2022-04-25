@@ -1,2 +1,2 @@
 # PSE
-Posix Evaluator
+Postfix Evaluator
